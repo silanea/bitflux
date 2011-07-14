@@ -1,0 +1,12 @@
+
+ BitFlux
+ 
+More than just a pretty TorrentFlux rewrite.
+
+Specification:
+
+ - Protocol agnostic: Supports BitTorrent, FTP, SFTP, HTTP... If you can control it from PHP, BitFlux can support it.
+ - Database agnostic: Supports many modern DBs through the Doctrine ORM.
+ - Pretty: Allows extensive theming through the Twig templating engine.
+ - Speaks your language, too: Designed from the ground up to offer good internationalisation.
+ - Extensible: Write your own plug-ins and tie them into the workflow.
